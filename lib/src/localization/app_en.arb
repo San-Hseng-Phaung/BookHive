@@ -1,0 +1,6 @@
+{
+  "appTitle": "book_hive",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
